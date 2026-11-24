@@ -16,7 +16,8 @@ Your application must:
 
 Development Guidelines
 
-You are free to select any additional technologies, libraries, tools and architectural approaches you consider appropriate for developing your solution. However, we ask that you refrain from using AI-assisted tools during this challenge.
+You are free to select any additional technologies, libraries, tools and architectural approaches you consider appropriate for developing your solution. However, we 
+ask that you refrain from using AI-assisted tools during this challenge.
 
 As you explore the database, you may discover opportunities to introduce additional functionality, improve the user experience or provide greater value to the end user.
 
