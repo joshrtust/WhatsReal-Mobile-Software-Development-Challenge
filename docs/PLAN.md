@@ -30,7 +30,6 @@ Estimated end time: 8pm
       - callWaiting:
       - voicemail:
 
-
 ## Archetecture and Design: 1 hr est. - done at 1:53pm
 - Compare tasks with job description:
   - What can I use to stand out? What tools / technologies can I show profficiency with? What tools do they want to see?
@@ -46,7 +45,7 @@ Estimated end time: 8pm
 - What is realistic based on timeline with no AI help?
   - Will have to stay simple on the BE to save time (db is just a 10 entry json), and will prioritize FE work/features + testing
 
-
+## Had a lunchbreak
 
 ## Get an MVP (minimum viable product) committed: 2 hrs est.
 - Design a base page layout
