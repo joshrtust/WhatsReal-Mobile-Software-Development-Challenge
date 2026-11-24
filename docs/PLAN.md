@@ -34,8 +34,18 @@ Estimated end time: 8pm
 ## Archetecture and Design: 1 hr est.
 - Compare tasks with job description:
   - What can I use to stand out? What tools / technologies can I show profficiency with? What tools do they want to see?
+  - Node.js + npm for runtime - I alr have it downloaded, and its very widely used.
+  - Latest Angular
+  - TypeScript
+  - SCSS + Angular material (googles component lib), need something with lots of documentation
+  - For backend, I will use json-server, which turns json into a "fake" REST API. This will allow me to show profficency with REST APIs while avoiding time consuming BE setup
+  - HTTP: Will use angulars default http client
+  - Vitest + TestBed + HttpTestingController - CLI default, not so familar (normally claude writes my unit tests) will take some research to use - but testing is important
+  - Github Actions for CI
+  - ESLint + Prettier - staying clean and organized (manual code moment lol)
 - What is realistic based on timeline with no AI help?
-- MUST use angular 10+, typescript in Node.js
+  - Will have to stay simple on the BE to save time (db is just a 10 entry json), and will prioritize FE work/features + testing
+
 
 
 ## Get an MVP (minimum viable product) committed: 2 hrs est.
