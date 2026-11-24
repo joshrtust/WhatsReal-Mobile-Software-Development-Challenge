@@ -31,7 +31,7 @@ Estimated end time: 8pm
       - voicemail:
 
 
-## Archetecture and Design: 1 hr est.
+## Archetecture and Design: 1 hr est. - done at 1:53pm
 - Compare tasks with job description:
   - What can I use to stand out? What tools / technologies can I show profficiency with? What tools do they want to see?
   - Node.js + npm for runtime - I alr have it downloaded, and its very widely used.
