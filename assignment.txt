@@ -1,0 +1,31 @@
+# WhatsReal Mobile — Software Development Challenge
+
+## Objective
+
+You have been provided with a database containing information about WhatsReal Mobile customers and their associated mobile phone plans.
+
+Your challenge is to design and develop a single-page application (SPA) that provides an intuitive way to access and explore this information.
+
+Minimum Requirements
+
+Your application must:
+
+1. Display a list of users contained within the database.
+2. Provide the ability to view the details of an individual user.
+3. Use Angular as the frontend application framework.
+
+Development Guidelines
+
+You are free to select any additional technologies, libraries, tools and architectural approaches you consider appropriate for developing your solution. However, we ask that you refrain from using AI-assisted tools during this challenge.
+
+As you explore the database, you may discover opportunities to introduce additional functionality, improve the user experience or provide greater value to the end user.
+
+We encourage you to be creative, exercise your technical judgment and explore these opportunities while effectively managing your time.
+
+Time Allocation
+
+You have one business day from the time you receive this assignment to complete and submit your solution.
+
+We are interested not only in what you build, but also in how you approach the challenge, the decisions you make and how you prioritize your work within the time available.
+
+Good luck, and enjoy the challenge!
