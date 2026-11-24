@@ -47,10 +47,11 @@ Estimated end time: 8pm
 
 ## Had a lunchbreak
 
-## Get an MVP (minimum viable product) committed: 2 hrs est.
+## Get an MVP (minimum viable product) committed: 2 hrs est. - done at ~6pm
 - Design a base page layout
 - Implement API, services, list layout, what details to show, and basic error handling
 
+## Dinner with fam
 
 ## Polish the UI, test the UX, and implement a few well done features: 2-3 hrs est.
 - Colours, usability, cleanliness, organization
