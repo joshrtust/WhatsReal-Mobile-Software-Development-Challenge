@@ -81,7 +81,7 @@
 			"email": "thecase48@test.com",
 			"age": 67,
 			"plan": {
-				"type": "basic"
+				"type": "basic",
 				"status": "active",
 				"description": "The Lite Package",
 				"features": {
