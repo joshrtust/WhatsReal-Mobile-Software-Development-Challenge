@@ -1,0 +1,10 @@
+<button type="button" (click)="toggle.emit()" [attr.aria-expanded]="expanded()">
+  {{ user().name }} — {{ user().email }}
+</button>
+
+@if (expanded()) {
+  <div class="details">
+    <p>{{ user().name }}</p>
+    <p>{{ user().email }}</p>
+  </div>
+}
