@@ -55,7 +55,7 @@ Estimated end time: 8pm
 
 Note: When implementing and testing list item and drop down feature I realized that the first and last entry of the data have identical ids because my dropdown code is based on expanding the ID and both the first and last user drop down when either of them are clicked. For now, I will fix the data.
 
-## Polish the UI, test the UX, and implement a few well done features: 2-3 hrs est.
+## Polish the UI, test the UX, and implement a few well done features: 2-3 hrs est. - done at 8:42pm
 - Colours, usability, cleanliness, organization
 - How can I provide value to the customers?
 - Feature ideas: Search (I assume they will load the project with more data to see it scale - possibly data with errors), think of more as you work
