@@ -1,6 +1,7 @@
 Plan and estimated timeline:
 Start time: 12pm - worked in AM
-Estimated end time: 8pm
+Estimated end time: 8pm - Actual end time 10pm
+In total without including meals/breaks I spent about 8 hours working on this project so I followed estimates relatively well. I spent a good chunk of the time finding and reviewing documentation specifically angular.dev. It has some really great guides and explanations.
 
 ## Assumptions:
 - Order of phone plan cost is the following (least to most): lite, basic, premium, ultimate
@@ -66,6 +67,6 @@ Behind on timing - currently 8:18pm with some colours and it's getting there. Re
 - Demonstrate proficiency in writing automated unit tests and E2E tests for UI features (from job posting)
 - Playwright is my go to for E2E web testing
 - Simple github CI on commits
+Deferred on playwright, out of time + for the complexity of this project - unit tests will suffice
 
-
-## Cleanup, Human testing, README.md explanations, and submission: 0.5-1hr est.
+## Cleanup, Human testing, README.md explanations, and submission: 0.5-1hr est. - Done 10pm
