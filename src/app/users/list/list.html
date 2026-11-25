@@ -11,7 +11,7 @@
         <app-list-item
           [user]="user"
           [expanded]="expanded() === user.id"
-          (toggle)="toggleUser(user.id)"
+          (toggleItem)="toggleUser(user.id)"
         ></app-list-item>
       </li>
     } @empty {

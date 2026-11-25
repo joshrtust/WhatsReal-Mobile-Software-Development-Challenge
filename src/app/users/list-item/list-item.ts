@@ -10,5 +10,5 @@ import { User } from '../../models/user';
 export class ListItem {
   user = input.required<User>();
   expanded = input<boolean>(false); // By default, keep the item closed
-  toggle = output<void>();
+  toggleItem = output<void>();
 }

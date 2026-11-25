@@ -1,5 +1,6 @@
-<button type="button" class="user-row" (click)="toggle.emit()">
+<button type="button" class="user-row" (click)="toggleItem.emit()">
   <span class="name">{{ user().name }}</span>
+  <span class="status {{ user().plan.status }}">{{ user().plan.status }}</span>
 </button>
 
 @if (expanded()) {
