@@ -62,7 +62,7 @@ Note: When implementing and testing list item and drop down feature I realized t
 
 Behind on timing - currently 8:18pm with some colours and it's getting there. Reviewing documentation is slowing me down.
 
-## Setup tests + CI: 1 hr
+## Setup tests + CI: 1 hr - done 9:17pm
 - Demonstrate proficiency in writing automated unit tests and E2E tests for UI features (from job posting)
 - Playwright is my go to for E2E web testing
 - Simple github CI on commits
