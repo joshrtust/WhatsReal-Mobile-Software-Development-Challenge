@@ -60,6 +60,7 @@ Note: When implementing and testing list item and drop down feature I realized t
 - How can I provide value to the customers?
 - Feature ideas: Search (I assume they will load the project with more data to see it scale - possibly data with errors), think of more as you work
 
+Behind on timing - currently 8:18pm with some colours and it's getting there. Reviewing documentation is slowing me down.
 
 ## Setup tests + CI: 1 hr
 - Demonstrate proficiency in writing automated unit tests and E2E tests for UI features (from job posting)
