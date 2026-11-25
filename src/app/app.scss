@@ -1,0 +1,15 @@
+.app-header {
+  background: var(--main-colour);
+  color: black;
+  padding: 1rem 1.5rem;
+
+  h1 {
+    font-size: 2rem;
+  }
+}
+
+main {
+  max-width: 1100px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}

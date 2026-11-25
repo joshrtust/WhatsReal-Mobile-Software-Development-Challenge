@@ -1,11 +1,11 @@
-<h1>Users</h1>
+<h2>Users</h2>
 
 @if (loading()) {
   <p>Users are loading...</p>
 } @else if (error()) {
   <p>{{ error() }}</p>
 } @else {
-  <ul>
+  <ul class = "user-list">
     @for (user of users(); track user.id) {
       <li>
         <app-list-item

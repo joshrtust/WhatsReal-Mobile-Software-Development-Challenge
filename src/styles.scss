@@ -1,1 +1,12 @@
-/* You can add global styles to this file, and also import other style files */
+:root {
+  --main-colour: #5784b8;
+  --background-colour: #acb9be;
+  --radius: 8px;
+}
+
+body {
+  margin: 0;
+  background:fixed var(--background-colour);
+  font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+  line-height: 1.5;
+}

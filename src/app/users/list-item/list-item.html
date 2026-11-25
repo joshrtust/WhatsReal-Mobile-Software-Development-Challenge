@@ -1,10 +1,14 @@
-<button type="button" (click)="toggle.emit()" [attr.aria-expanded]="expanded()">
-  {{ user().name }} — {{ user().email }}
+<button type="button" class="user-row" (click)="toggle.emit()">
+  <span class="name">{{ user().name }}</span>
 </button>
 
 @if (expanded()) {
-  <div class="details">
-    <p>{{ user().name }}</p>
-    <p>{{ user().email }}</p>
-  </div>
+    <div class="details">
+    <p><strong>Email:</strong> {{ user().email }}</p>
+    <p><strong>Age:</strong> {{ user().age }}</p>
+    <p><strong>Status:</strong> {{ user().plan.status }}</p>
+    <p><strong>Plan:</strong> {{ user().plan.description }}</p>
+    <p><strong>Conference calling:</strong> {{ user().plan.features.conferenceCalling ? 'Yes' : 'No' }}</p>
+    <p><strong>Call waiting:</strong> {{ user().plan.features.callWaiting ? 'Yes' : 'No' }}</p>
+    <p><strong>Voicemail:</strong> {{ user().plan.features.voicemail ? 'Yes' : 'No' }}</p></div>
 }
